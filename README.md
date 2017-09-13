@@ -14,3 +14,11 @@
 	针对当前业务系统中功能服务包含：头像、文件、附件、日志信息
 ### 扩展功能：
 	实现网盘功能，可以管理目录与文件
+## 2 技术构建
+	Spring Boot、SpringMVC、log4j2、SpringData、RabbitMQ、Druid、Mysql、MongoDB、FastJson、Swagger2
+	基于Log4j2+MongoDB实现日志管理
+	基于SrpingDataMongoDB+MongoDB实现文件存储
+	基于SpringMVC+SpringDataJPA+Druid+MYSQL实现网盘目录管理
+	基于RESTful API实现实时查询接口
+	基于RabbitMQ实现异步消息日志存储
+	基于Swagger2实现构建RESTful APIs
