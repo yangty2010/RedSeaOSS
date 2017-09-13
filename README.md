@@ -22,3 +22,4 @@
 	基于RESTful API实现实时查询接口
 	基于RabbitMQ实现异步消息日志存储
 	基于Swagger2实现构建RESTful APIs
+![](https://raw.githubusercontent.com/yangty2010/RedSeaOSS/master/RedSeaOSS.png)  
